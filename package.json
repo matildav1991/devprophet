@@ -1,0 +1,33 @@
+{
+  "name": "devprophet",
+  "version": "1.0.2",
+  "description": "devprophet",
+  "type": "module",
+  "main": "devprophet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matildav1991/devprophet"
+  },
+  "website": "https://github.com/matildav1991/devprophet.git",
+  "keywords": [
+    "devprophet"
+  ],
+  "author": "matildav1991",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matildav1991/devprophet/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/matildav1991/devprophet#readme",
+  "dependencies": {
+		"programcraftkit": "1.0.2",
+		"codecraftmaster": "1.0.2",
+		"devtoolsavvy": "1.0.2"
+  }
+}
